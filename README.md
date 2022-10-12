@@ -1,4 +1,4 @@
-- Hello👋, welcome to my page. Hit me up, let's build the future💕🫡. 
+# Hi, I'm utibe inyangetuk!
 
 <!---
 utibeinyangetuk/utibeinyangetuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
