@@ -1,4 +1,5 @@
-# utibe inyangetuk.
+# Half-stack web developer.
+# vue, node, express, git
 
 <!---
 utibeinyangetuk/utibeinyangetuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
