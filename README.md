@@ -1,5 +1,4 @@
-# Half-stack web developer.
-# vue, node, express, git
+### Half-stack web developer.
 
 <!---
 utibeinyangetuk/utibeinyangetuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
