@@ -1,6 +1,6 @@
 ###  Developer.
 ### B.ENG Computer Engineering
-### In love with the vue ecosystem
+### In love with the Vue Ecosystem
 
 <!---
 utibeinyangetuk/utibeinyangetuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
